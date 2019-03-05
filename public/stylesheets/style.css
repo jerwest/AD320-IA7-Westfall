@@ -1,8 +1,19 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+    width: 50px;
+	height: 50px;
+    margin: 10% auto;
+	padding: 5px 10px;
+    background: red;
+    overflow: hidden;
+	display: grid;
 }
 
-a {
-  color: #00B7FF;
+/***************TYPOGRAPHY***************/
+h2 {
+	font-family: "Times New Roman", Times, serif;
+    color: black;
+	text-align: center;
 }
