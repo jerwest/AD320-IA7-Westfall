@@ -9,6 +9,24 @@
         "hex": "#000"
       }
     },
+	{
+	  "color": "Black",
+	  "category": "hue",
+	  "type": "primary",
+	  "code": {
+		"rgba": [255,255,255,1],
+		"hex": "#000"
+	  }
+	},
+	{
+	  "color": "BLACK",
+	  "category": "hue",
+	  "type": "primary",
+	  "code": {
+		"rgba": [255,255,255,1],
+		"hex": "#000"
+	  }
+	},
     {
       "color": "white",
       "category": "value",
